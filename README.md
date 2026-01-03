@@ -1,5 +1,8 @@
 #Project name: AutoValue AI
 
+Building AI course project
+
+##Summary
 AutoValue AI is an AI-powered system that estimates a car’s resale value by combining traditional vehicle data (such as model, year, mileage, and location) with image analysis of the car’s interior and exterior, text descriptions, and service history. It also provides a probability chart showing how likely a car is to sell at different price levels, depending on whether it is sold privately or through a dealer.
 
 ##Background
