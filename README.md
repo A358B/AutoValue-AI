@@ -1,4 +1,4 @@
-#Project name: AutoValue AI
+#Project title: AutoValue AI
 
 Building AI course project
 
